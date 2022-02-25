@@ -26,7 +26,7 @@ WELCOME TO MY SITE
 
 [Link](url) and ![Image](src)
 ```
-```markdown
+```
 hauad jd
 dmsndjbsd 
 dlndknf
