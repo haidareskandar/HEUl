@@ -27,6 +27,7 @@ WELCOME TO MY SITE
 [Link](url) and ![Image](src)
 ```
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![cheese pic](https://user-images.githubusercontent.com/100162460/155818690-a76cb008-75aa-468c-8973-e10bd3ba8ca8.jpg)
 
 ### Jekyll Themes
 
