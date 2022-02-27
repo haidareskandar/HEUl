@@ -2,7 +2,7 @@
 #### WHERE YOU BELONG TO YOUR OWN KITCHEN
 
 
-You can use the [instagram](https://www.instagram.com/accounts/login/) github to maintain and review the content for your website in Markdown files.
+You can use the [instagram](https://instagram.com/accounts/login/) github to maintain and review the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
