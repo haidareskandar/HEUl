@@ -24,11 +24,17 @@ WELCOME TO MY SITE
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) and ![Image](scr)
+[Link](url) and ![Image](scr)
 ```
 ![cheese pic](https://user-images.githubusercontent.com/100162460/155818690-a76cb008-75aa-468c-8973-e10bd3ba8ca8.jpg)(scr)
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
+```menu 
+the main menu is full of options
+##BY PICTURES
+![cheese pic](https://user-images.githubusercontent.com/100162460/155818690-a76cb008-75aa-468c-8973-e10bd3ba8ca8.jpg)(scr)
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+##BY WORDS
+CHEESE AND STUFF"
 
 ### Jekyll Themes
 
