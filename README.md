@@ -25,21 +25,11 @@ WELCOME TO MY SITE
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](scr)
+
 ```
 ![cheese pic](https://user-images.githubusercontent.com/100162460/155818690-a76cb008-75aa-468c-8973-e10bd3ba8ca8.jpg)(scr)
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-### MENU
 
-```MENU
-
-the main menu is full of options
-## BY PICTURES 
-![cheese pic](https://user-images.githubusercontent.com/100162460/155818690-a76cb008-75aa-468c-8973-e10bd3ba8ca8.jpg)(scr)
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-## BY WORDS
-CHEESE AND STUFF
-[Link](url) and ![Image](scr)
-```
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haidareskandar/HEUl/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
